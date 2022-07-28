@@ -1,2 +1,2 @@
-# EriPratama
-Personal Repo
+# Eri Pratama
+
