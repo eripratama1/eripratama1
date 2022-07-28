@@ -7,4 +7,4 @@ by mail :mailbox: eripratama1@gmail.com
 
 or Contact me Via Telegram : https://t.me/eripratama
 
-Live in ::house: Indonesia
+Live in :house: Indonesia
