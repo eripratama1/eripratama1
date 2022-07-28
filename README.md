@@ -1,9 +1,11 @@
 # Eri Pratama :rocket:
 
-Hi :raised_hand: I'm Eri Pratama
+Hi :raised_hand: I'm Eri Pratama 
 
-You can :speech_balloon:  
-by mail :mailbox: eripratama1@gmail.com
+a fullStack web developer, Familiar with Php especially with Laravel Framework
+
+You can :speech_balloon: for collaboration or hire me to working on your project 
+:mailbox: eripratama1@gmail.com
 
 or Contact me Via Telegram : https://t.me/eripratama
 
