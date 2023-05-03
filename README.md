@@ -7,8 +7,6 @@ You can :speech_balloon: for collaboration or hire me to working on your project
 
 or Contact me Via Telegram : https://t.me/eripratama
 
-:house: Stay in Indonesia
-
 <!-- ## Languages and Tools i use -->
 
 ## :rocket: Language and tools i use
