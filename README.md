@@ -1,6 +1,6 @@
 Hi :raised_hand: I'm Eri Pratama 
 
-a fullStack web developer, Familiar with Php especially with Laravel Framework 
+Web & mobile app developer, 
 
 You can :speech_balloon: for collaboration or hire me to working on your project 
 :mailbox: eripratama1@gmail.com
